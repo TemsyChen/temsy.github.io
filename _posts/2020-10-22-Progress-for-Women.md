@@ -3,7 +3,7 @@ layout: post
 title: Progress for Women, Rich and Poor
 subtitle: How education and employment have changed for women in rich and poor countries
 cover-img: /assets/img/girls_school.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/women.jpg
 share-img: /assets/img/girls_school.jpg
 ---
 

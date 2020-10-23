@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
 I've been a stay at home parent since 2012 for two squirrely kids, in Orange County, California. 

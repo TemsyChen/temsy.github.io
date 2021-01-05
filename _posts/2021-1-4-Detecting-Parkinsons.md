@@ -2,7 +2,7 @@
 layout: post
 title: Detecting Parkinson's Disease with Voice Analysis
 cover-img: /assets/img/brain.jpg
-thumbnail-img: /assets/img/thunb_brain.jpg
+thumbnail-img: /assets/img/thumb_brain.jpg
 share-img: /assets/img/brain.jpg
 ---
 

@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/thumb_brain.jpg
 share-img: /assets/img/brain.jpg
 ---
 
-In my second project for Lambda School, I created machine learning models predicting Parkinson's Disease by using analyses of voice samples, which has exciting potential for improving diagnoses. Click on the link below for the full post.
+I employed machine learning models to diagnose Parkinson's Disease using analyses of patient voice samples, an area with exciting potential for improving diagnoses. I used Logistic Regression, Random Forest, and XGBoost to find the most accurate model.
 
 [Read the post here](https://temsy-chen.medium.com/detecting-parkinsons-disease-with-voice-analysis-89e034f4f6f4)
 

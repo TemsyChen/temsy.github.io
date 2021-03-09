@@ -2,7 +2,7 @@
 layout: post
 title: Price predictor for AirBnB properties
 cover-img: /assets/img/airbnb_house.jpg
-thumbnail-img: /assets/img/thumb_brain.jpg
+thumbnail-img: /assets/img/house_mushroom.png
 share-img: /assets/img/brain.jpg
 ---
 

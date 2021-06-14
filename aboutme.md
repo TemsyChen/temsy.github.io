@@ -3,11 +3,10 @@ layout: page
 title: About me
 ---
 
-I've been a stay at home parent since 2012 for two squirrely kids, in Orange County, California. 
+I'm a Data Scientist from Lambda School (graduated 2021), specializing in Machine Learning and Data Engineering. 
 
-Before then, I was a video editor in NYC. 
+Before then, I was a film editor for 9 years in Austin, Taipei, and New York City (including one year-long stint as a TV show host). For the past 9 years, I've been a proud stay-at-home parent to two kids (and one doggie) in Orange County, CA. 
 
-Before then, I did various roles of film and tv post production (including a year long stint as a TV host) in Taipei, Taiwan.
+My hobbies all involve using my hands: sewing, knitting, baking, woodworking, and house repair. I love making things! That includes movies edited on a computer, or products created by code. My favorite workday includes collaborating with teammates and working closely with stakeholders.
 
-Now I'm switching careers into Data Science! I'm currently attending Lambda School.
-
+Check out my <a href="https://drive.google.com/file/d/1Kqn3mpa2gHr34R4xeFViZt3ijed5mJcd/view?usp=sharing">resume</a> here.
